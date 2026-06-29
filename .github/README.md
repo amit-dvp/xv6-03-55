@@ -5,7 +5,7 @@ GitHub codespace environment
 Run following commands in Codespace:
 # docker image xv6_image prepare (. is for current directory): 
 $ docker buld -t xv6_image .
-#check docker images ID:
+# check docker images ID:
 $ docker images
 # run docker container:
 $ docker run -it <docker image ID> 
