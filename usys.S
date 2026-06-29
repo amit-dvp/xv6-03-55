@@ -1,4 +1,3 @@
-// Amit Serebrenikov, ID: 303423255
 // usys.S is assembly file that defines the user‑side stubs for every system call.
 // These tiny assembly functions load the system‑call number into a
 // register and trigger the trap into the kernel

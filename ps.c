@@ -1,4 +1,4 @@
-// Amit Serebrenikov, ID: 303423255
+
 
 // ps.c is user‑level program that prints the list of running processes.
 // It is the xv6 equivalent of the Unix ps command.
