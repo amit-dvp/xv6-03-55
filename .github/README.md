@@ -8,7 +8,7 @@ $ docker build -t xv6_image .
 # check docker images ID:
 $ docker images
 # run docker container:
-$ docker run -it <docker image ID> 
+$ docker run -it xv6_image 
 # now yor can run ls command and see that only relevant files appear:
 $ ls
 # run xv6 without qemu window : 
