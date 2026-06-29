@@ -1,5 +1,3 @@
-
-
 // ps.c is user‑level program that prints the list of running processes.
 // It is the xv6 equivalent of the Unix ps command.
 // It does not manage processes itself — instead, it calls a system call cps155

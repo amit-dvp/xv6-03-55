@@ -1,4 +1,3 @@
-// Amit Serebrenikov, ID: 303423255
 //
 // The stages of system call ps : 
 //  1. cps155 is a C function wrapper, declared in user.h
